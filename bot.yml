@@ -1,5 +1,5 @@
-name: Beepboop Starterbot
-description: A simple Python bot sample for Beep Boop
+name: Git Issues
+description: Responds with a link to a git issue or pull request when an issue number is posted
 avatar: resources/avatar.png
 background: resources/background.png
 config:
